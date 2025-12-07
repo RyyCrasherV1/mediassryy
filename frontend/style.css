@@ -1,0 +1,1 @@
+body{font-family:Inter,system-ui,Arial; margin:16px; color:#111} nav{display:flex;gap:12px;margin-bottom:12px} #messages{background:#f8fafc} .msg{padding:6px;border-bottom:1px solid #eee} .owner{font-weight:700;color:#c026d3}
